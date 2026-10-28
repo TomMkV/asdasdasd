@@ -6,3 +6,7 @@ name: asdasdasd
 
 - `knowledge/` — workspace knowledge units
 - `.ctxpipe/sources.yaml` — sources, including linked GitHub repositories
+
+## Folders
+
+- `sources/`
